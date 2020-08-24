@@ -10,9 +10,9 @@ class Pgr301ProjectApplicationTests {
 	void contextLoads() {
 	}
 
-	@Test
+	/*@Test
 	void assertSomethingIsWrong() {
 		assert (1 == 2);
 	}
-
+*/
 }
